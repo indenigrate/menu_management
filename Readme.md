@@ -161,12 +161,3 @@ All endpoints are prefixed with `/api`.
 This project is licensed under the **MIT License**.
 
 ---
-
-## 👨‍💻 Author
-
-**Devansh Soni**
-Backend Developer • Internship Project
-📧 [your.email@example.com](mailto:your.email@example.com)
-
-```
-```
